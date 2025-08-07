@@ -64,3 +64,13 @@ body {
     color: #F9FAF8;
     border-radius: 10px;
 }
+
+#placeholder{
+    color:#F9FAF8;
+    display: flex;
+    align-self: center;
+    padding: auto;
+    height: 200px;
+    width: 300px;
+    background-color: #E5E7EB;
+}
